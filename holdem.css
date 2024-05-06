@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards-div{
+    border:1px solid black;
+    width:400px;
+    height:100px;
+    margin:10px;
+    padding:0px
+}
+
+.cards-div img{
+    height:90px;
+    margin:5px;
+}
+
+#log{
+    width:150px;
+    height:20px;
+    border:1px solid black;
+    margin: 10px;
+
+}
+
+#log2{
+    width:150px;
+    height:20px;
+    border:1px solid black;
+    margin: 10px;
+
+}
